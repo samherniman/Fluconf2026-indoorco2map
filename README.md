@@ -1,1 +1,44 @@
+# Fluconf 2026 indoorco2map
+
+
 # Fluconf2026-indoorco2map
+
+## Proposal abstract
+
+There is a well documented relationship between indoor levels of
+CO<sub>2</sub> and the amount of ventilation in indoor environments.
+Buildings with high indoor levels of CO<sub>2</sub> have poor
+ventilation and are therefore more likely to be vectors of airborne
+diseases (like COVID-19, Measles, and Flu) and to trap indoor
+pollutants.
+
+Measuring CO<sub>2</sub> inside is a really cheap way of measuring the
+air quality in indoor environments. When we breathe, we exhale
+CO<sub>2</sub> and it gets trapped inside the room we are in. If the
+building has good ventilation it will leave quickly. If it has bad
+ventilation, it stays in the room and builds up. CO<sub>2</sub> levels
+outside are typically around 423 parts per million (ppm), if we measure
+the CO<sub>2</sub> in a room and it is higher than that, we can measure
+the how ventilated the room is.
+
+If there is bad ventilation, then smoke from cooking can build up and
+that’s bad for you. Same thing for VOCs from perfumes, as well as gas
+leaks, radon, and mold spores. At high concentrations in artificial
+environments, they contribute to all sorts of things: cancer,
+Alzheimer’s, Parkinson’s, childhood asthma, childhood lung problems, and
+heart conditions. Bad ventilation also contributes to a much higher risk
+of respiratory infections. If someone who is sick breathes in a badly
+ventilated room, the infectious aerosols will float around in the room
+until someone breathes them in. In a well ventilated space, they are
+dispersed very quickly and the risk of infection is much lower. Having
+an open window in a classroom (or having an air filter), for instance,
+reduces school absences significantly.
+
+[Indoor CO2-Map](https://indoorco2map.com) is an open source community
+science project to monitor indoor CO<sub>2</sub> levels in
+non-residential buildings and transit systems around the world. Since
+April 2024 volunteers have brought CO<sub>2</sub> monitors into cafes,
+shops, schools, trains, and all sorts of other places to monitor
+CO<sub>2</sub> levels in them and upload them to a public database. In
+this presentation, we illustrate how this project was built, summarise
+recent findings, and detail how you can be involved!
