@@ -1,6 +1,4 @@
----
-title: "Abstract"
----
+# Proposal Abstract
 There is a well documented relationship between indoor levels of CO~2~ and the amount of ventilation in indoor environments. Buildings with high indoor levels of CO~2~ have poor ventilation and are therefore more likely to be vectors of airborne diseases (like COVID-19, Measles, and Flu) and to trap indoor pollutants.
 
 Measuring CO~2~ inside is a really cheap way of measuring the air quality in indoor environments. When we breathe, we exhale  CO~2~ and it gets trapped inside the room we are in. If the building has good ventilation it will leave quickly. If it has bad ventilation, it stays in the room and builds up. CO~2~ levels outside are typically around 423 parts per million (ppm), if we measure the CO~2~ in a room and it is higher than that, we can measure the how ventilated the room is.

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Fluconf 2026 indoorco2map"
+  title: "Indoorco2map Fluconf 2026"
   navbar:
     left:
       - href: index.qmd
