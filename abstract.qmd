@@ -1,5 +1,5 @@
 ---
-title: "Fluconf 2026 indoorco2map"
+title: "Abstract"
 format: 
   gfm: 
     output-file: README.md
@@ -8,10 +8,6 @@ execute:
   echo: false
   cache: false
 ---
-
-# Fluconf2026-indoorco2map
-
-## Proposal abstract
 
 There is a well documented relationship between indoor levels of CO~2~ and the amount of ventilation in indoor environments. Buildings with high indoor levels of CO~2~ have poor ventilation and are therefore more likely to be vectors of airborne diseases (like COVID-19, Measles, and Flu) and to trap indoor pollutants.
 
