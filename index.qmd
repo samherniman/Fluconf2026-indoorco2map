@@ -2,6 +2,11 @@
 title: "Fluconf 2026 indoorco2map"
 ---
 
-This is a Quarto website.
+Aurel Wünsch and Sam Herniman will be talking at Fluconf about indoorco2map.com, a community science project to measure indoor CO~2~ around the world.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Details
+
+Date: [2026-02-01 18:00 UTC+0](https://time.is/1800_1_Feb_2026_in_London?Fluconf_-_IndoorCO2)  
+Location: [Youtube Live](https://www.youtube.com/@aurelwu/live)
+
+Check back here for any updates if we have any issues.

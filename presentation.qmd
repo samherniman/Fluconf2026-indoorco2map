@@ -1,15 +1,77 @@
 ---
-title: "Presentation"
-author: "John Doe"
-format: revealjs
+title: "IndoorCO2Map.com: Community science for safer indoor spaces"
+author: "Aurel Wünsch and Sam Herniman"
+format: 
+  revealjs:
+    auto-play-media: true
 ---
 
-## Getting up
+## Experience as a participant & Data analysis
 
-- Turn off alarm
-- Get out of bed
+<!-- my participation in the project started in
+august 2024
+I've got a history of working on community science projects
+so it was very easy for me to be interested in in
+I had also been participating in a couple of other 
+crowdcoursed co2 projects and I was a bit frustrated with 
+the way they worked
+manual recordings were slow and unreliable
+also not really open source - I wanted to be able 
+to build on the data and draw conclusions
 
-## Going to sleep
+this project seemed to solve a lot of those issues
+ -->
 
-- Get in bed
-- Count sheep
+## Experience as a participant
+
+<!-- video of doing a measurement
+pretty easy but a little unintuitive
+if you want to do a lot of measurements you 
+can do up to 12 an hour, but 9 or 10 is the real limit
+ -->
+
+## Walkthrough of a measurement
+
+![](data-images/fluconf_obs_building_medium.mp4){.absolute top=90 left=200 height=550}
+
+![](data-images/fluconf-transit_medium.mp4){.absolute top=90 right=200 height=550}
+
+<!-- woodbridge -->
+<!-- I put this to the test in my mum's town
+I tried to do almost every business as quickly as possible
+there are about 100 eligible places in her town
+and I am about to do the majority in about 2 afternoons
+ -->
+
+### {background-iframe="https://indoorco2map.com/?lat=52.09226&lng=1.31733&zoom=16.00"}
+
+## Data analysis
+
+##  {background-iframe="https://samherniman.github.io/autocruller/"}
+
+## So far
+
+![](data-images/animation_na.gif){.absolute top=50 left=0 height=350}
+
+![](data-images/animation_eu.gif){.absolute top=50 right=50 height=640}
+
+![](data-images/animation_aus.gif){.absolute bottom=0 left=0 height=350}
+
+<!-- deets:
+
+We are going to use Youtube live. The tricky bit is getting our webcams synced up
+We will investigate.
+1st feb 19:00 Berlin time
+40 mins presentation + 20 for questions
+
+We should find someone or sometwo to moderate the chat and compile questions
+
+Adgenda:
+Aurel introduce everything
+Sam will talk about the ux and how I usually use it
+Then Sam can talk about visualizations and the R package
+Aurel conclude stuff
+
+A few days before, we will have a quick look at each other's stuff 
+and make sure we know what the other is talking about
+Thursday evening we will check webcams and fix problems -->

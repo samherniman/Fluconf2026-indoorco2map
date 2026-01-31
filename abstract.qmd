@@ -2,12 +2,22 @@
 title: "Presentation details"
 ---
 
+Aurel Wünsch and Sam Herniman will be talking at Fluconf about indoorco2map.com, a community science project to measure indoor CO~2~ around the world.
+
 ## Details
 
 Date: [2026-02-01 18:00 UTC+0](https://time.is/1800_1_Feb_2026_in_London?Fluconf_-_IndoorCO2)  
 Location: [Youtube Live](https://www.youtube.com/@aurelwu/live)
 
-Check back here for any updates if we have any issues.
+Check back here for any updates before the start of the event.
+
+## Speakers
+
+Aurel Wünsch specializes in electricity markets, energy scenarios and sector coupling. In his free time, Aurel, created indoorco2map.com – an open source citizen science project mapping indoor air quality worldwide.  
+[Github](https://github.com/AurelWu) [Bluesky](https://bsky.app/profile/aurel.indoorco2map.com)
+
+Sam is a spatial data scientist specializing in quantitative ecology and community science. Sam is a long time volunteer with indoorco2map.com.  
+[Github](https://github.com/samherniman) [Website](https://sam.rbind.io/) [Fediverse](https://fosstodon.org/@samherniman)
 
 ## Abstract
 There is a well documented relationship between indoor levels of CO~2~ and the amount of ventilation in indoor environments. Buildings with high indoor levels of CO~2~ have poor ventilation and are therefore more likely to be vectors of airborne diseases (like COVID-19, Measles, and Flu) and to trap indoor pollutants.

@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Fluconf 2026 indoorco2map",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Aurel Wünsch and Sam Herniman will be talking at Fluconf about indoorco2map.com, a community science project to measure indoor CO2 around the world."
+  },
+  {
+    "objectID": "index.html#details",
+    "href": "index.html#details",
+    "title": "Fluconf 2026 indoorco2map",
+    "section": "Details",
+    "text": "Details\nDate: 2026-02-01 18:00 UTC+0\nLocation: Youtube Live\nCheck back here for any updates if we have any issues."
   },
   {
     "objectID": "LICENSE.html",
@@ -28,6 +35,13 @@
     "text": "Experience as a participant"
   },
   {
+    "objectID": "presentation.html#walkthrough-of-a-measurement",
+    "href": "presentation.html#walkthrough-of-a-measurement",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Walkthrough of a measurement",
+    "text": "Walkthrough of a measurement\nVideo\nVideo"
+  },
+  {
     "objectID": "presentation.html#data-analysis",
     "href": "presentation.html#data-analysis",
     "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
@@ -46,14 +60,21 @@
     "href": "abstract.html",
     "title": "Presentation details",
     "section": "",
-    "text": "Date: 2026-02-01 18:00 UTC+0\nLocation: Youtube Live\nCheck back here for any updates if we have any issues."
+    "text": "Aurel Wünsch and Sam Herniman will be talking at Fluconf about indoorco2map.com, a community science project to measure indoor CO2 around the world."
   },
   {
     "objectID": "abstract.html#details",
     "href": "abstract.html#details",
     "title": "Presentation details",
-    "section": "",
-    "text": "Date: 2026-02-01 18:00 UTC+0\nLocation: Youtube Live\nCheck back here for any updates if we have any issues."
+    "section": "Details",
+    "text": "Details\nDate: 2026-02-01 18:00 UTC+0\nLocation: Youtube Live\nCheck back here for any updates before the start of the event."
+  },
+  {
+    "objectID": "abstract.html#speakers",
+    "href": "abstract.html#speakers",
+    "title": "Presentation details",
+    "section": "Speakers",
+    "text": "Speakers\nAurel Wünsch specializes in electricity markets, energy scenarios and sector coupling. In his free time, Aurel, created indoorco2map.com – an open source citizen science project mapping indoor air quality worldwide.\nGithub Bluesky\nSam is a spatial data scientist specializing in quantitative ecology and community science. Sam is a long time volunteer with indoorco2map.com.\nGithub Website Fediverse"
   },
   {
     "objectID": "abstract.html#abstract",
