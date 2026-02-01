@@ -49,11 +49,130 @@
     "text": "Data analysis"
   },
   {
-    "objectID": "presentation.html#so-far",
-    "href": "presentation.html#so-far",
+    "objectID": "presentation.html#r-package",
+    "href": "presentation.html#r-package",
     "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
-    "section": "So far",
-    "text": "So far"
+    "section": "R package",
+    "text": "R package\n\npak::pak(\"samherniman/autocruller\")"
+  },
+  {
+    "objectID": "presentation.html#r-package-1",
+    "href": "presentation.html#r-package-1",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "R package",
+    "text": "R package\n\nbuildings_df &lt;- autocruller::ac_get_co2() \n\n\ntransit_df  &lt;- autocruller::ac_get_co2(\"transit\")"
+  },
+  {
+    "objectID": "presentation.html#spatial-biases",
+    "href": "presentation.html#spatial-biases",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Spatial biases",
+    "text": "Spatial biases"
+  },
+  {
+    "objectID": "presentation.html#observations-per-country",
+    "href": "presentation.html#observations-per-country",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Observations per country",
+    "text": "Observations per country"
+  },
+  {
+    "objectID": "presentation.html#observations-per-country-1",
+    "href": "presentation.html#observations-per-country-1",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Observations per country",
+    "text": "Observations per country"
+  },
+  {
+    "objectID": "presentation.html#observations-per-capita",
+    "href": "presentation.html#observations-per-capita",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Observations per capita",
+    "text": "Observations per capita"
+  },
+  {
+    "objectID": "presentation.html#how-can-we-use-these-data",
+    "href": "presentation.html#how-can-we-use-these-data",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "How can we use these data?",
+    "text": "How can we use these data?"
+  },
+  {
+    "objectID": "presentation.html#woodbridge-uk",
+    "href": "presentation.html#woodbridge-uk",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Woodbridge, UK",
+    "text": "Woodbridge, UK"
+  },
+  {
+    "objectID": "presentation.html#woodbridge-uk-1",
+    "href": "presentation.html#woodbridge-uk-1",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Woodbridge, UK",
+    "text": "Woodbridge, UK"
+  },
+  {
+    "objectID": "presentation.html#comparison-of-brands",
+    "href": "presentation.html#comparison-of-brands",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Comparison of brands",
+    "text": "Comparison of brands"
+  },
+  {
+    "objectID": "presentation.html#costco-vs-the-home-depot",
+    "href": "presentation.html#costco-vs-the-home-depot",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Costco vs The Home Depot",
+    "text": "Costco vs The Home Depot"
+  },
+  {
+    "objectID": "presentation.html#costco-vs-the-home-depot-1",
+    "href": "presentation.html#costco-vs-the-home-depot-1",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Costco vs The Home Depot",
+    "text": "Costco vs The Home Depot"
+  },
+  {
+    "objectID": "presentation.html#costco-vs-the-home-depot-2",
+    "href": "presentation.html#costco-vs-the-home-depot-2",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Costco vs The Home Depot",
+    "text": "Costco vs The Home Depot"
+  },
+  {
+    "objectID": "presentation.html#large-scale-analyses",
+    "href": "presentation.html#large-scale-analyses",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Large scale analyses",
+    "text": "Large scale analyses"
+  },
+  {
+    "objectID": "presentation.html#large-scale-analyses-1",
+    "href": "presentation.html#large-scale-analyses-1",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Large scale analyses",
+    "text": "Large scale analyses"
+  },
+  {
+    "objectID": "presentation.html#large-scale-analyses-2",
+    "href": "presentation.html#large-scale-analyses-2",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Large scale analyses",
+    "text": "Large scale analyses"
+  },
+  {
+    "objectID": "presentation.html#transit",
+    "href": "presentation.html#transit",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Transit",
+    "text": "Transit"
+  },
+  {
+    "objectID": "presentation.html#want-to-see-more",
+    "href": "presentation.html#want-to-see-more",
+    "title": "IndoorCO2Map.com: Community science for safer indoor spaces",
+    "section": "Want to see more?",
+    "text": "Want to see more?\n\nsamherniman.github.io/indoor_co2_visuals/monthly_report\ngithub.com/samherniman/autocruller"
   },
   {
     "objectID": "abstract.html",

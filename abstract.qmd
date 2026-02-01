@@ -2,7 +2,7 @@
 title: "Presentation details"
 ---
 
-Aurel Wünsch and Sam Herniman will be talking at Fluconf about indoorco2map.com, a community science project to measure indoor CO~2~ around the world.
+Aurel Wünsch and Sam Herniman will be talking at [Fluconf](https://2026.fluconf.online/) about [indoorco2map.com](https://indoorco2map.com/?lat=51.16570&lng=10.45150&zoom=6.00), a community science project to measure indoor CO~2~ around the world.
 
 ## Details
 

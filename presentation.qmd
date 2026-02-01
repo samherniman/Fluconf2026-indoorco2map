@@ -4,6 +4,7 @@ author: "Aurel Wünsch and Sam Herniman"
 format: 
   revealjs:
     auto-play-media: true
+    controls: true
 ---
 
 ## Experience as a participant & Data analysis
@@ -36,26 +37,112 @@ can do up to 12 an hour, but 9 or 10 is the real limit
 
 ![](data-images/fluconf-transit_medium.mp4){.absolute top=90 right=200 height=550}
 
-<!-- woodbridge -->
-<!-- I put this to the test in my mum's town
-I tried to do almost every business as quickly as possible
-there are about 100 eligible places in her town
-and I am about to do the majority in about 2 afternoons
- -->
-
-### {background-iframe="https://indoorco2map.com/?lat=52.09226&lng=1.31733&zoom=16.00"}
+<!-- most users
+power users
+can do about 9 or 10 per hour -->
 
 ## Data analysis
 
 ##  {background-iframe="https://samherniman.github.io/autocruller/"}
 
-## So far
+## R package
+
+```{r}
+#| eval: false
+#| echo: true
+pak::pak("samherniman/autocruller")
+```
+
+
+## R package
+
+```{r}
+#| eval: false
+#| echo: true
+buildings_df <- autocruller::ac_get_co2() 
+```
+
+```{r}
+#| eval: false
+#| echo: true
+transit_df  <- autocruller::ac_get_co2("transit") 
+```
+
+##  {background-iframe="https://samherniman.github.io/indoor_co2_visuals/monthly_report.html" background-interactive=true}
+
+## Spatial biases
 
 ![](data-images/animation_na.gif){.absolute top=50 left=0 height=350}
 
 ![](data-images/animation_eu.gif){.absolute top=50 right=50 height=640}
 
 ![](data-images/animation_aus.gif){.absolute bottom=0 left=0 height=350}
+
+## Observations per country
+
+![](data-images/countries-all.svg)
+
+## Observations per country
+
+![](data-images/countries2.svg)
+
+
+## Observations per capita
+
+![](data-images/countriespercapita.svg)
+
+## How can we use these data?
+
+## {background-iframe="https://indoorco2map.com/?lat=52.09226&lng=1.31733&zoom=16.00" background-interactive=true}
+
+## Woodbridge, UK
+
+![](data-images/woodbrige-season.svg)
+
+## Woodbridge, UK
+
+![](data-images/woodbridge-windows.svg)
+
+## Comparison of brands
+
+## Costco vs The Home Depot
+
+
+## Costco vs The Home Depot
+
+![](data-images/costco.svg)
+
+## Costco vs The Home Depot
+
+![](data-images/costco2.svg)
+
+## Large scale analyses
+
+![](data-images/histogram.svg)
+
+## Large scale analyses
+
+![](data-images/buildingtype-box.svg)
+
+## Large scale analyses
+
+![](data-images/metweektype.svg)
+
+## Transit
+
+![](data-images/transitall-box.svg)
+
+## Want to see more?
+
+- [samherniman.github.io/indoor_co2_visuals/monthly_report](https://samherniman.github.io/indoor_co2_visuals/monthly_report.html)
+- [github.com/samherniman/autocruller](https://github.com/samherniman/autocruller)
+
+
+
+
+
+
+
 
 <!-- deets:
 
