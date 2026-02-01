@@ -7,7 +7,10 @@ format:
     controls: true
 ---
 
-## Experience as a participant & Data analysis
+## What I am going to talk about
+
+- Experience as a participant
+- Data analysis
 
 <!-- my participation in the project started in
 august 2024
@@ -105,8 +108,8 @@ transit_df  <- autocruller::ac_get_co2("transit")
 
 ## Comparison of brands
 
-## Costco vs The Home Depot
-
+- Aldi and Lidl
+- Costco and The Home Depot
 
 ## Costco vs The Home Depot
 
